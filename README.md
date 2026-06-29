@@ -144,6 +144,3 @@ Performance variation across modalities reflects real-world imaging complexity �
 ## Related Work
 - [XAI for Clinical Decision Support](https://github.com/priyanshiii7/XAI) — companion research on Explainable AI in medical diagnosis
 - [Healthcare Monitoring System](https://github.com/priyanshiii7/healthcare_monitoring) — real-time IoT health data pipeline
-
-- [XAI for Clinical Decision Support](https://github.com/priyanshiii7/XAI) — companion research on Explainable AI in medical diagnosis
-- [Healthcare Monitoring System](https://github.com/priyanshiii7/healthcare_monitoring) — real-time IoT health data pipeline
